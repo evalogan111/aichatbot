@@ -1,0 +1,12 @@
+{
+  "name": "heroku-static-site",
+  "version": "1.0.0",
+  "description": "Static HTML site served via Express on Heroku",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
